@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<beans>
+    <bean id="date" class="java.util.Date" lazy="true"></bean>
+    <bean id="obj" class="java.lang.Object" lazy="false"></bean>
+
+</beans>

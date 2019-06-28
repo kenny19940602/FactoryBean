@@ -1,0 +1,9 @@
+
+Isquid:S1135"2Complete the task associated to this TODO comment.(ÿ…Ì¾
+Fsquid:S1481O"(Remove this unused "ctx" local variable.(“²Ğ›8Û©·Ç¹-
+Rsquid:S1068"/Remove this unused "instanceMap" private field.(‚¯Âüÿÿÿÿ8´ğéÆ¹-
+esquid:S00112+"FDefine and throw a dedicated exception instead of using a generic one.(æÇ€8ÕÇ¹-
+[
+squid:S106F"9Replace this use of System.out or System.err by a logger.(ÒŠ†ûÿÿÿÿ8·ô²Ç¹-
+Dsquid:S1172J"&Remove these unused method parameters.(êñË±8ÏÂâÆ¹-
+Usquid:S1854O"7Remove this useless assignment to local variable "ctx".(“²Ğ›8Û©·Ç¹-
