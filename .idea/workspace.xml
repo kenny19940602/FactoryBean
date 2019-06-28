@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="139cbaa9-f1df-4c52-903d-e06a0786bc9f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/xml/src/com/kenny/spring/factory/ClassPathXmlApplicationContext.java" beforeDir="false" afterPath="$PROJECT_DIR$/xml/src/com/kenny/spring/factory/ClassPathXmlApplicationContext.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,28 +23,15 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/xml/src/com/kenny/spring/vo/BeanDefinition.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="16" selection-start-line="16" selection-end-line="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/xml/src/resources/spring-configs.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/xml/src/com/kenny/spring/factory/ClassPathXmlApplicationContext.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="628">
-              <caret line="117" column="70" selection-start-line="117" selection-start-column="70" selection-end-line="117" selection-end-column="70" />
+            <state relative-caret-position="601">
+              <caret line="141" column="9" lean-forward="true" selection-start-line="141" selection-start-column="9" selection-end-line="141" selection-end-column="9" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="docComment;field#instanceMap#0;class#ClassPathXmlApplicationContext#0" expanded="true" />
@@ -52,18 +39,6 @@
                 <element signature="docComment;method#parse#0;class#ClassPathXmlApplicationContext#0" expanded="true" />
                 <element signature="docComment;method#newBeanInstance#0;class#ClassPathXmlApplicationContext#0" expanded="true" />
                 <element signature="docComment;method#attrAssign#0;class#ClassPathXmlApplicationContext#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/xml/src/com/kenny/spring/Annotation/ExtResource.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="36" lean-forward="true" selection-start-column="36" selection-end-column="36" />
-              <folding>
-                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -80,6 +55,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="kenny" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
@@ -137,14 +117,6 @@
               <item name="xml" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="spring" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="FactoryBean" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FactoryBean" type="462c0819:PsiDirectoryNode" />
-              <item name="xml" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="spring" type="462c0819:PsiDirectoryNode" />
-              <item name="Annotation" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="FactoryBean" type="b2602c69:ProjectViewProjectNode" />
@@ -233,7 +205,7 @@
       <updated>1561592544793</updated>
       <workItem from="1561592546085" duration="1317000" />
       <workItem from="1561637154233" duration="1966000" />
-      <workItem from="1561689906356" duration="7082000" />
+      <workItem from="1561689906356" duration="7295000" />
     </task>
     <task id="LOCAL-00001" summary="aa">
       <created>1561639110238</created>
@@ -242,11 +214,18 @@
       <option name="project" value="LOCAL" />
       <updated>1561639110238</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="aa">
+      <created>1561702510479</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1561702510479</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10365000" />
+    <option name="totallyTimeSpent" value="10578000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -294,20 +273,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="aa" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/xml/src/com/kenny/spring/vo/BeanDefinition.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/xml/src/resources/spring-configs.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/xml/src/com/kenny/spring/Annotation/ExtResource.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -318,10 +283,35 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/xml/src/resources/spring-configs.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xml/src/com/kenny/spring/vo/BeanDefinition.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/xml/src/com/kenny/spring/factory/ClassPathXmlApplicationContext.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="628">
-          <caret line="117" column="70" selection-start-line="117" selection-start-column="70" selection-end-line="117" selection-end-column="70" />
+        <state relative-caret-position="601">
+          <caret line="141" column="9" lean-forward="true" selection-start-line="141" selection-start-column="9" selection-end-line="141" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="docComment;field#instanceMap#0;class#ClassPathXmlApplicationContext#0" expanded="true" />

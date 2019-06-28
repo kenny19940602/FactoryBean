@@ -134,5 +134,11 @@ public class ClassPathXmlApplicationContext {
 
         System.out.println(obj);
         System.out.println(date);
+        //在所有Bean容器里所有bean自动注入所有的Bean
+        for (Map.Entry<String, Object> entry : ctx.instanceMap.entrySet()) {
+            System.out.println("beanId:"+entry.getKey());
+            Object bean = entry.getValue();
+            ctx.attrAssign(bean);
+        }
     }
 }
